@@ -16,7 +16,7 @@ python whois.py <domain-name> <domain-name> .....
 
 ### For non-existent site
 
-![alt text](image.png)
+<img width="725" height="73" alt="image" src="https://github.com/user-attachments/assets/9cd58c35-a5c0-4bac-a7a9-79941e96fbc4" />
 
 ### For valid sites
 
@@ -31,3 +31,4 @@ https://api-ninjas.com/
 ```
 
 It provides free API usage for upto 10k requests per month
+
